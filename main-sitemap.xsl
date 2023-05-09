@@ -9,6 +9,7 @@
 	<xsl:template match="/">
 		<html xmlns="http://www.w3.org/1999/xhtml">
 			<head>
+<meta name="facebook-domain-verification" content="8fky9cw1ml1hqv0cwmu87qrtjk1rmy" />
 				<!-- Google Tag Manager (noscript) -->
 				<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MK5773B"
 				height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
